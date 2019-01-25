@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Data Scrap</string>
+    <string name="button">Click to Get Data</string>
+    <string name="tv1">10th Character Request</string>
+    <string name="tv2">Every 10th Character Request:</string>
+    <string name="tv3">Word Count Request</string>
+</resources>
